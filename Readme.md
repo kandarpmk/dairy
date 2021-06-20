@@ -1,5 +1,16 @@
 ## Readme.md
 
+
+Make sure mongodb is installed and the service is running on the machine
+If not please follow the steps given at:
+https://docs.mongodb.com/manual/installation/
+
+### Create the DB
+```
+mongo
+use Dairy;
+```
+
 ### To run the server: 
 ```
 npm install
